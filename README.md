@@ -17,7 +17,7 @@ When you enter your own traits, the algorithm compares them to the dataset using
 
 ---
 
-## 📁 Folder Contents
+## 📁 Project Structure
 
 - `src/main.py`
 - `src/gui.py`
@@ -58,21 +58,6 @@ When you enter your own traits, the algorithm compares them to the dataset using
 3. **Run the application**:
    ```bash
       python src/main.py```
-
----
-
-## 🗂️ Project Structure
-
-choixpeau/
-│
-├── choixpeauMagique.csv         # Student dataset with house labels
-├── img/                         # Folder for Sorting Hat images
-├── requirements.txt             # Dependencies (to be added)
-└── src/
-    ├── main.py                  # Main entry point and GUI loop
-    ├── gui.py                   # GUI logic (buttons, animations, inputs)
-    ├── function.py              # k-NN logic & data functions
-    └── open_img_tk.py           # Image loading helper
 
 ---
 
