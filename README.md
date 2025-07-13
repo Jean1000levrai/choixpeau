@@ -5,6 +5,13 @@ A graphical Python application inspired by the **Harry Potter Sorting Hat**. Ent
 
 ---
 
+## 📬 Author
+
+Jean1000levrai
+GitHub: https://github.com/Jean1000levrai
+
+---
+
 ## 🧠 How It Works
 
 The app reads a dataset of students from `choixpeauMagique.csv`, each labeled with a Hogwarts house and traits:
