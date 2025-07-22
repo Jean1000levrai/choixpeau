@@ -2,6 +2,7 @@
 # Choixpeau Magique 🧙‍♂️🎩
 
 A graphical Python application inspired by the **Harry Potter Sorting Hat**. Enter your traits, and the Choixpeau will assign you to your Hogwarts house using the **Manhattan distance algorithm** and a dataset of fictional students.
+In this project, I learnt a way on how decisions can be taken by an AI
 
 ---
 
