@@ -70,8 +70,4 @@ When you enter your own traits, the algorithm compares them to the dataset using
 
 ## 📄 License
 
-This project is licensed under the
-
----
-
-## 🖼️ Screenshots
+This project is licensed under the MIT license
